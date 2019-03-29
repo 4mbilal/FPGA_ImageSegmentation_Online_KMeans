@@ -6,3 +6,5 @@
 Aiman Badawi and Muhammad Bilal, "High-Level Synthesis of Online K-Means Clustering Hardware for a Real-Time Image Processing Pipeline", Journal of Imaging, 2019, 5, 38.
 https://www.mdpi.com/2313-433X/5/3/38
 
+![Screenshot](demo.jpg)
+
