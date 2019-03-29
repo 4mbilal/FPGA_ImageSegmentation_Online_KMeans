@@ -9,3 +9,4 @@ https://www.mdpi.com/2313-433X/5/3/38
 
 ![Screenshot](demo.jpg)
 
+![Screenshot](fpga.jpg)
