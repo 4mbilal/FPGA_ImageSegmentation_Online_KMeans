@@ -1,0 +1,19 @@
+Sementation_8K/Segmentation_HW/K-Means/Clustering/MATLAB Function --> K_Means_ip_src_MATLAB_Function
+Sementation_8K/Segmentation_HW/K-Means/Clustering --> K_Means_ip_src_Clustering
+Sementation_8K/Segmentation_HW/K-Means/Comparisons/SSE10 --> K_Means_ip_src_SSE10
+Sementation_8K/Segmentation_HW/K-Means/Comparisons/SSE11 --> K_Means_ip_src_SSE11
+Sementation_8K/Segmentation_HW/K-Means/Comparisons/SSE12 --> K_Means_ip_src_SSE12
+Sementation_8K/Segmentation_HW/K-Means/Comparisons/SSE13 --> K_Means_ip_src_SSE13
+Sementation_8K/Segmentation_HW/K-Means/Comparisons/SSE14 --> K_Means_ip_src_SSE14
+Sementation_8K/Segmentation_HW/K-Means/Comparisons/SSE15 --> K_Means_ip_src_SSE15
+Sementation_8K/Segmentation_HW/K-Means/Comparisons/SSE16 --> K_Means_ip_src_SSE16
+Sementation_8K/Segmentation_HW/K-Means/Comparisons/SSE9 --> K_Means_ip_src_SSE9
+Sementation_8K/Segmentation_HW/K-Means/Comparisons --> K_Means_ip_src_Comparisons
+Sementation_8K/Segmentation_HW/K-Means/Color Space Converter/RGB2YCbCrCore --> K_Means_ip_src_RGB2YCbCrCore
+Sementation_8K/Segmentation_HW/K-Means/Color Space Converter --> K_Means_ip_src_Color_Space_Converter
+Sementation_8K/Segmentation_HW/K-Means/Color Space Converter1/YCbCr2RGBCore --> K_Means_ip_src_YCbCr2RGBCore
+Sementation_8K/Segmentation_HW/K-Means/Color Space Converter1/YCBCR2RGB --> K_Means_ip_src_YCBCR2RGB
+Sementation_8K/Segmentation_HW/K-Means/Color Space Converter1 --> K_Means_ip_src_Color_Space_Converter1
+Sementation_8K/Segmentation_HW/K-Means --> K_Means_ip_src_K_Means
+Sementation_8K/Segmentation_HW/RGB2Vector --> K_Means_ip_src_RGB2Vector
+Sementation_8K/Segmentation_HW --> K_Means_ip_src_Segmentation_HW
